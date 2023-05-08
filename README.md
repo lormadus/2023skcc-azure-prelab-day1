@@ -16,4 +16,6 @@ https://learn.microsoft.com/ko-kr/azure/developer/terraform/create-vm-scaleset-n
 
 
 ### Azure CLI 설치 ###
-```curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash```
+```
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+```
