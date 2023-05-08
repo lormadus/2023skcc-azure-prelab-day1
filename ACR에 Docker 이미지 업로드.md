@@ -67,3 +67,8 @@ az acr login --name user15acrdemo1
 ```
 docker push user15acrdemo1.azurecr.io/httpd:v1
 ```
+
+### 11. K8s 클러스터 접근 권한 설정 ###
+```
+az aks get-credentials --resource-group myResourceGroup1 --name myAKSCluster
+```
